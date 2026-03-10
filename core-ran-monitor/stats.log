@@ -1,0 +1,9 @@
+2026-03-10 11:22:15,609 - INFO - exporter_prometheus.py - 144 - Exporter running on port 8082
+2026-03-10 11:22:15,610 - INFO - metrics_collector.py - 41 - [Callbox] Initiating connection to 10.205.52.101:9001
+2026-03-10 11:22:15,610 - INFO - metrics_collector.py - 41 - [CORE-MME] Initiating connection to 10.205.52.103:9000
+2026-03-10 11:22:15,624 - INFO - metrics_collector.py - 47 - [Callbox] WebSocket established.
+2026-03-10 11:22:15,624 - INFO - metrics_collector.py - 61 - [Callbox] Node ready (Type: ENB)
+2026-03-10 11:22:15,624 - INFO - metrics_collector.py - 47 - [CORE-MME] WebSocket established.
+2026-03-10 11:22:15,625 - INFO - metrics_collector.py - 61 - [CORE-MME] Node ready (Type: MME)
+2026-03-10 11:22:23,402 - INFO - exporter_prometheus.py - 41 - Signal 2 received. Saving data and exiting...
+2026-03-10 11:22:23,402 - INFO - imsi_manager.py - 37 - IMSI list saved successfully.
