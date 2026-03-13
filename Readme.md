@@ -66,7 +66,8 @@ Focuses on the virtualization and application layers.
    Bash
 
    ```
-   python3 -m core-ran-monitor.exporter.exporter_prometheus
+   cd 5G-Monitoring-Framework/core-ran-monitor
+   python3 -m exporter.exporter_prometheus
    ```
 
 ### Kubernetes Network & Energy Tracking
