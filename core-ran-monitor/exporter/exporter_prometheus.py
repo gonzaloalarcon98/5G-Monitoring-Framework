@@ -20,7 +20,7 @@ import os
 import config.logs as logs
 import collectors.metrics_collector as metrics_collector
 import collectors.imsi_manager as imsi_manager
-from ue import UE
+#from ue import UE
 
 # Logger and Thread Safety
 logger = logging.getLogger(logs.__name__)
