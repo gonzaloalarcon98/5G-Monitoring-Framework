@@ -27,7 +27,7 @@ FIXED_CELLS = {
 
 # Aggregator API Configuration
 # Note: You could move these to config.ini for better flexibility
-AGGREGATOR_URL = "http://10.208.11.21:8090/lastAttributeValue"
+AGGREGATOR_URL = "http://YOUR_IP_ADDRESS:8090/lastAttributeValue"
 VEHICLE_PLATE = "1311ABC"
 OUTPUT_PATH = "/var/lib/node-exporter/k8smetrics/vehiclePosition.prom"
 
