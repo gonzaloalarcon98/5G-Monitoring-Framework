@@ -25,7 +25,7 @@ CELL_COORDS = {
 }
 
 # API Configuration
-MANAGER_BASE_URL = "http://10.208.11.21:8070"
+MANAGER_BASE_URL = "http://YOUR_IP_ADDRESS:8070"
 VEHICLE_PLATE = "1311ABC"
 OUTPUT_METRICS_PATH = "/var/lib/node-exporter/k8smetrics/gpsTrackingPosition.prom"
 
